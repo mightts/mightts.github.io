@@ -1,0 +1,4 @@
+---
+slug: fantastic
+name: fantastic
+---
