@@ -1,4 +1,0 @@
----
-slug: divina
-name: divina
----

@@ -1,4 +1,0 @@
----
-slug: pretty
-name: pretty
----

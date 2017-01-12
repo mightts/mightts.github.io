@@ -1,4 +1,0 @@
----
-slug: bianca
-name: bianca
----

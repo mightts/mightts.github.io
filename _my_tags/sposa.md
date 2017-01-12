@@ -1,4 +1,0 @@
----
-slug: sposa
-name: sposa
----

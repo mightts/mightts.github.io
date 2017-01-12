@@ -1,4 +1,0 @@
----
-slug: brides
-name: brides
----

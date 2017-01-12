@@ -1,4 +1,0 @@
----
-slug: elia
-name: elia
----
