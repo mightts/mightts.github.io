@@ -1,4 +1,0 @@
----
-slug: informal
-name: informal
----

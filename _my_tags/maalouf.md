@@ -1,4 +1,0 @@
----
-slug: maalouf
-name: maalouf
----

@@ -1,4 +1,0 @@
----
-slug: kiara
-name: kiara
----

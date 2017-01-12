@@ -1,4 +1,0 @@
----
-slug: otaduy
-name: Otaduy
----

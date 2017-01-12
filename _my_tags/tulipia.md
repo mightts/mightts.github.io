@@ -1,4 +1,0 @@
----
-slug: tulipia
-name: tulipia
----

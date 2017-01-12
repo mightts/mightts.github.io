@@ -1,4 +1,0 @@
----
-slug: forever
-name: forever
----

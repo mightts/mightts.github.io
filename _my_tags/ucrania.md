@@ -1,4 +1,0 @@
----
-slug: ucrania
-name: ucrania
----

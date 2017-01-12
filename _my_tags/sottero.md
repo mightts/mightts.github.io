@@ -1,4 +1,0 @@
----
-slug: sottero
-name: sottero
----

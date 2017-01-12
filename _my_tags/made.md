@@ -1,4 +1,0 @@
----
-slug: made
-name: made
----

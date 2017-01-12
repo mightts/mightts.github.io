@@ -1,4 +1,0 @@
----
-slug: venus
-name: Venus
----

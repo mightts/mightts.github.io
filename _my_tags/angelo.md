@@ -1,4 +1,0 @@
----
-slug: angelo
-name: angelo
----

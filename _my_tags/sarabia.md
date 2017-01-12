@@ -1,4 +1,0 @@
----
-slug: sarabia
-name: sarabia
----

@@ -1,4 +1,0 @@
----
-slug: benjamin
-name: benjamin
----

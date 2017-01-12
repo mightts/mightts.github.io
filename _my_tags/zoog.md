@@ -1,4 +1,0 @@
----
-slug: zoog
-name: zoog
----

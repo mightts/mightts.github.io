@@ -1,4 +1,0 @@
----
-slug: true
-name: true
----

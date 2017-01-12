@@ -1,4 +1,0 @@
----
-slug: tango
-name: tango
----

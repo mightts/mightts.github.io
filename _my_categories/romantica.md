@@ -1,4 +1,0 @@
----
-slug: romantica
-name: Romantica
----

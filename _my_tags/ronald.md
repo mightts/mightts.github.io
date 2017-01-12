@@ -1,4 +1,0 @@
----
-slug: ronald
-name: ronald
----

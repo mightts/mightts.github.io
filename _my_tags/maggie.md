@@ -1,4 +1,0 @@
----
-slug: maggie
-name: maggie
----

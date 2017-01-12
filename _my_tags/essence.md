@@ -1,4 +1,0 @@
----
-slug: essence
-name: essence
----

@@ -1,4 +1,0 @@
----
-slug: papilio
-name: papilio
----

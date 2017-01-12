@@ -1,4 +1,0 @@
----
-slug: enzoani
-name: Enzoani
----

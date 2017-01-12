@@ -1,4 +1,0 @@
----
-slug: lili
-name: lili
----

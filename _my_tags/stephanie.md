@@ -1,4 +1,0 @@
----
-slug: stephanie
-name: stephanie
----

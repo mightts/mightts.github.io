@@ -1,4 +1,0 @@
----
-slug: demetrios
-name: Demetrios
----

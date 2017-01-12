@@ -1,4 +1,0 @@
----
-slug: happy
-name: happy
----

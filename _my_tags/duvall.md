@@ -1,4 +1,0 @@
----
-slug: duvall
-name: duvall
----

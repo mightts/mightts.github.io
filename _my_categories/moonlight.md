@@ -1,4 +1,0 @@
----
-slug: moonlight
-name: Moonlight
----

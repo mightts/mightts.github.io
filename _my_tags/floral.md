@@ -1,4 +1,0 @@
----
-slug: floral
-name: floral
----

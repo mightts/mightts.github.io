@@ -1,4 +1,0 @@
----
-slug: becker
-name: becker
----

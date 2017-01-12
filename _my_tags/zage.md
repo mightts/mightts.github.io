@@ -1,4 +1,0 @@
----
-slug: zage
-name: zage
----

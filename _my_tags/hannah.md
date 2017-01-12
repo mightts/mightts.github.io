@@ -1,4 +1,0 @@
----
-slug: hannah
-name: hannah
----

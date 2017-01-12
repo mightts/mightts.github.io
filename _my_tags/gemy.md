@@ -1,4 +1,0 @@
----
-slug: gemy
-name: gemy
----

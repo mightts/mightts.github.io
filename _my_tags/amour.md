@@ -1,4 +1,0 @@
----
-slug: amour
-name: amour
----

@@ -1,4 +1,0 @@
----
-slug: joyce
-name: joyce
----
