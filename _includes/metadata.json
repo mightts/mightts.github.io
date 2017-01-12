@@ -13,18 +13,12 @@
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ site.title }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.logo | prepend: site.baseurl | prepend: site.url }}",
-      "width": "60",
-      "height": "60"
-    }
-  },
+    "name": "{{ site.title }}"
+  }{% if page.image %},
   "image": {
     "@type": "ImageObject",
-    "url": "{{ site.logo | prepend: site.baseurl | prepend: site.url }}",
-    "height": "60",
-    "width": "60"
-  }
+    "url": "{{ page.image }}",
+    "height": "600",
+    "width": "600"
+  }{% endif %}
 }
