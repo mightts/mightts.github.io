@@ -1,0 +1,4 @@
+---
+slug: gual
+name: gual
+---

@@ -1,0 +1,4 @@
+---
+slug: rossi
+name: rossi
+---
