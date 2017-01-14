@@ -1,0 +1,4 @@
+---
+slug: hipnotic
+name: hipnotic
+---
