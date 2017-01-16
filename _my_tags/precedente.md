@@ -1,0 +1,4 @@
+---
+slug: precedente
+name: precedente
+---
