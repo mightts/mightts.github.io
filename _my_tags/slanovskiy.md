@@ -1,0 +1,4 @@
+---
+slug: slanovskiy
+name: slanovskiy
+---
