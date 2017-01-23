@@ -1,0 +1,4 @@
+---
+slug: dinar
+name: dinar
+---
