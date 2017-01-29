@@ -1,0 +1,4 @@
+---
+slug: cool
+name: cool
+---
