@@ -1,0 +1,4 @@
+---
+slug: vermont
+name: vermont
+---
