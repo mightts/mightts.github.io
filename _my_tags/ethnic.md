@@ -1,0 +1,4 @@
+---
+slug: ethnic
+name: ethnic
+---
