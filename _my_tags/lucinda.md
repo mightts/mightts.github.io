@@ -1,0 +1,4 @@
+---
+slug: lucinda
+name: lucinda
+---
