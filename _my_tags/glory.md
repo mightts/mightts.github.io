@@ -1,0 +1,4 @@
+---
+slug: glory
+name: glory
+---
