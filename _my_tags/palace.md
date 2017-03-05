@@ -1,0 +1,4 @@
+---
+slug: palace
+name: palace
+---
