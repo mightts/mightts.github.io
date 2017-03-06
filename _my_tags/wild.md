@@ -1,0 +1,4 @@
+---
+slug: wild
+name: wild
+---

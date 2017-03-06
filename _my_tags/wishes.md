@@ -1,0 +1,4 @@
+---
+slug: wishes
+name: wishes
+---
