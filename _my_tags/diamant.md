@@ -1,0 +1,4 @@
+---
+slug: diamant
+name: diamant
+---
