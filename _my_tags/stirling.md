@@ -1,0 +1,4 @@
+---
+slug: stirling
+name: stirling
+---
