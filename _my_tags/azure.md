@@ -1,0 +1,4 @@
+---
+slug: azure
+name: azure
+---
