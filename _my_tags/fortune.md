@@ -1,0 +1,4 @@
+---
+slug: fortune
+name: fortune
+---
