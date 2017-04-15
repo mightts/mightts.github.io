@@ -1,0 +1,4 @@
+---
+slug: jamaica
+name: jamaica
+---
